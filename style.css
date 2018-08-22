@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://static.pexels.com/photos/3768/sky-sunny-clouds-cloudy.jpg");
+    background-size: cover;
+}
+  
+  .container{
+    padding-top: 100px;
+  }
+  h3{
+    padding-bottom: 50px;
+  }
